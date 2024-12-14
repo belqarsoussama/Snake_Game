@@ -1,0 +1,3 @@
+- Initially created with **Kotlin** that explain the 10% Kotlin
+- the code in the repository—the project was later transformed into **Java** for better compatibility and learning purposes.  
+- Fully functional on **Android Nougat (7.0)** and later versions. 
